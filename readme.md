@@ -3,7 +3,7 @@ Join Algorithms
 
 This project explores the comparative performance of the following join algorithms:
 
-- [ested loop](https://en.wikipedia.org/wiki/Nested_loop_join)
+- [Nested loop](https://en.wikipedia.org/wiki/Nested_loop_join)
 - [Sort-merge](https://en.wikipedia.org/wiki/Sort-merge_join)
 - [Hash](https://en.wikipedia.org/wiki/Hash_join)
 
